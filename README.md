@@ -22,8 +22,16 @@
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/NUMPY-013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Scipy](https://img.shields.io/badge/SCIPY-8CAAE6.svg?&style=flat&logo=scipy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C.svg?&style=flat&logo=matplotlib&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/SEABORN-379F7A.svg?&style=flat&logo=seaborn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/PANDAS-150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+![ScikitLearn](https://img.shields.io/badge/SCIKIT%20LEARN-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/PLOTLY-007396.svg?&style=flat&logo=plotly&logoColor=white)&nbsp;
-![Dash](https://img.shields.io/badge/DASH-000000.svg?&style=flat&logo=dash&logoColor=white)&nbsp;
+![Dash](https://img.shields.io/badge/DASH-000000.svg?&style=flat&logo=plotly&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;\
+![Pytorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -33,20 +41,11 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OSX](https://img.shields.io/badge/OSX-999999?style=flat-square&logo=apple&logoColor=white)&nbsp;\
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 
 
 
-![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=flat&logo=eclipse)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;\
-![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
-![Hexagonal Architecture](https://img.shields.io/badge/HEXAGONAL-2496ED.svg?&style=flat&logoColor=white)&nbsp;
-![MVC Architecture](https://img.shields.io/badge/MVC-888888.svg?&style=flat&logoColor=white)&nbsp;
-![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
-![DDD](https://img.shields.io/badge/DOMAIN%20DD-02569B.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![TDD](https://img.shields.io/badge/TEST%20DD-E34F26.svg?&style=flat&logo=tdd&logoColor=white)&nbsp;
-![PMBOK](https://img.shields.io/badge/PMBOK-DD0031.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F.svg?&style=flat&logo=ddd&logoColor=white)&nbsp;
 
 <!-- 
 Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
