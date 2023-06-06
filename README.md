@@ -17,7 +17,6 @@
 
 <hr/>
 
-<details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -32,6 +31,13 @@
 ![Dash](https://img.shields.io/badge/DASH-000000.svg?&style=flat&logo=plotly&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/JUPYTER-F37626.svg?&style=flat&logo=jupyter&logoColor=white)&nbsp;\
 ![Pytorch](https://img.shields.io/badge/PYTORCH-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
+![pip](https://img.shields.io/badge/PIP-3776AB.svg?&style=flat&logo=pypi&logoColor=white)&nbsp;
+![Anaconda](https://img.shields.io/badge/ANACONDA-44A833.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
+![Conda](https://img.shields.io/badge/CONDA-44A833.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/FLASK-000000.svg?&style=flat&logo=flask&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/DJANGO-092E20.svg?&style=flat&logo=django&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B.svg?&style=flat&logo=streamlit&logoColor=white)&nbsp;
+![Heroku](https://img.shields.io/badge/HEROKU-430098.svg?&style=flat&logo=heroku&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -47,22 +53,19 @@
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
 
 
-</details>
 
 
 
 
 
-<details>
-  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=colasdroin&hide_border=true&theme=nightowl" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=colasdroin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colasdroin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
-</details>
+<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+<br/>
+  <p align="center">
+      <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=colasdroin&hide_border=true&theme=nightowl" />
+  </p>
+  <p align="center">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=colasdroin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=colasdroin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+  </p>
 
 <hr/>
 
