@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;:green_heart: &nbsp;Passionate about data exploration and data visualization.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on beam dynamics for the High-Luminosity Large Hadron Collider.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2015, Python lover. Dash and Plotly active user.\
-&nbsp;&nbsp;&nbsp;:couple: &nbsp;Living in Geneva with my partner :woman: and my dog :service_dog:.
+&nbsp;&nbsp;&nbsp;:couple: &nbsp;Living in Geneva with my partner :woman: and our dog :service_dog:.
 
 <p align="center">
   <a href="mailto:colasdroin@gmail.com?subject=Hello%20Colas%20Droin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,12 +50,7 @@
 ![OSX](https://img.shields.io/badge/OSX-999999?style=flat-square&logo=apple&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-
-
-
-
-
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
 
 <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
