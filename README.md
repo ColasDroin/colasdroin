@@ -22,7 +22,7 @@
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/PLOTLY-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/PLOTLY-007396.svg?&style=flat&logo=plotly&logoColor=white)&nbsp;
 ![Dash](https://img.shields.io/badge/DASH-000000.svg?&style=flat&logo=dash&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
