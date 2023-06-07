@@ -5,9 +5,9 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a senior fellow at [CERN](https://cern.ch/).\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and understanding.\
 &nbsp;&nbsp;&nbsp;:green_heart: &nbsp;Passionate about data exploration and data visualization.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently working on beam dynamics for the High-Luminosity Large Hadron Collider.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Studying beam dynamics for the High-Luminosity Large Hadron Collider.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2015, Python lover. Dash and Plotly active user.\
-&nbsp;&nbsp;&nbsp;:couple: &nbsp;Living in Geneva with my partner :woman: and our dog :service_dog:.
+&nbsp;&nbsp;&nbsp;:couple: &nbsp;Living in Geneva with my partner :woman: and our dog :dog:.
 
 <p align="center">
   <a href="mailto:colasdroin@gmail.com?subject=Hello%20Colas%20Droin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
