@@ -28,7 +28,7 @@ rect.headerRect {
 
 .wave {
   animation: wave 3s linear;
-  // animation-iteration-count:infinite;
+  animation-iteration-count:infinite;
   fill: #008080;  
 }
 
