@@ -45,23 +45,7 @@ rect.headerRect {
   animation-duration: 7s;
   opacity:.3;
 }
-@keyframes drop {
-  0% {
-    transform: translateY(25px); 
-  }
-  30% {
-    transform: translateY(-10px) scale(.1);
-  }
-  30.001% {
-    transform: translateY(25px) scale(1); 
-  }
-  70% {
-    transform: translateY(25px); 
-  }
-  100% { 
-    transform: translateY(-15px) scale(.1);  
-  }
-}
+
 @keyframes wave {
   to {transform: translateX(-100%);}
 }
