@@ -24,23 +24,12 @@ rect.headerRect {
   fill: black;
   fill-opacity: 20%;
 }
-rect.headerRect:hover {
-  fill: yellow;
-  fill-opacity: 50%;
-}
+
 
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
-}
-
-.wave:hover {
-  fill: #5457ff;
-}
-
-.drop:hover {
-  fill: #C9FFE5;
+  fill: #008080;  
 }
 
 .drop {
