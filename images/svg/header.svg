@@ -91,27 +91,6 @@ g.typingUnderline rect {
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
  
   <g class="gooeff" filter="url(#goo)">
-    <circle class="drop drop1" cx="95" cy="2" r="8.8"  />
-    <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
-    <circle class="drop drop3" cx="26" cy="2.8" r="9.2"  />
-    <circle class="drop drop4" cx="14" cy="2" r="8.8"  />
-    <circle class="drop drop5" cx="22" cy="2.5" r="7.5"  />
-    <circle class="drop drop6" cx="6" cy="2.8" r="9.2"  />
-      
-    <circle class="drop drop1" cx="45" cy="4.4" r="8.8"  />
-    <circle class="drop drop2" cx="99" cy="4.1" r="7.5"  />
-    <circle class="drop drop3" cx="8" cy="3.8" r="9.2"  />
-    <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
-    <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
-    <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
-    
-    <circle class="drop drop1" cx="32" cy="5.4" r="8.8"  />
-    <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
-    <circle class="drop drop3" cx="0.2" cy="5.3" r="9.2"  />
-    <circle class="drop drop4" cx="3.2" cy="5.4" r="8.8"  />
-    <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
-    <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
-      
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
