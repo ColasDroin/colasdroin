@@ -6,7 +6,7 @@
 🌱 Love for science and understanding.\
 💚 Passionate about data exploration and data visualization.\
 ✍🏻 Studying beam dynamics for the High-Luminosity Large Hadron Collider.\
-🛠️ Coding since 2015, Python lover. Dash and Plotly active user.\
+🛠️ Coding in professional environments since 2015, Python lover. \
 👩‍❤️‍👨 Living in Geneva with my partner and our 🐶.
 
 <p align="center">
