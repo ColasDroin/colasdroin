@@ -7,7 +7,7 @@
 💚 Passionate about data exploration and data visualization.\
 ✍🏻 Studying beam dynamics for the High-Luminosity Large Hadron Collider.\
 🛠️ Coding in professional environments since 2015, Python lover. \
-👩‍❤️‍👨 Living in Geneva with my partner and our 🐶.
+👩‍❤️‍👨 Living in Geneva with my wife and our 🐶.
 
 <p align="center">
   <a href="mailto:colasdroin@gmail.com?subject=Hello%20Colas%20Droin"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
